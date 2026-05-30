@@ -1,7 +1,7 @@
 title: Exemplo de artigo
 category: Estudos
 date: 2026-05-29
-toc: true
+toc: false
 ---
 
 # Título Principal (H1)

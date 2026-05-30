@@ -41,5 +41,8 @@ Todo arquivo de texto precisa começar exatamente com as três variáveis abaixo
 title: Como conseguir uma vaga no Studierendenwerk
 category: Moradia
 date: 2026-05-29
-toc: true
+toc: false
 ---
+```
+
+Adicionalmente, é possível configurar a variável facultativa `toc` igual a `false` para suprimir o sumário. Entretanto, qualquer outro valor não terá efeito.
